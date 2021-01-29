@@ -1,12 +1,12 @@
-          <script type="text/javascript">
+          
 
     var DADrightclicktheme = 'Dark';
 
     var DADrightclickimage = 'https://www.searchpng.com/wp-content/uploads/2019/01/Indian-Flag-PNG.png';
 
-</script>
 
-<script>
+
+
 
     if (DADrightclicktheme == 'Merah' || DADrightclicktheme == 'MERAH' || DADrightclicktheme == 'merah') {
 
@@ -87,4 +87,4 @@
     var DADrcdiv = document.write('<style type="text/css"/>#DADarcv2c{background:url(' + DADrightclickimage + ') no-repeat center center fixed ' + DADarcv2t + ';text-align:center;width:100%;height:100%;position:fixed;top:0px;left:0px;bottom:0px;right:0px;border:0px;z-index:1000000;display:none;padding:auto;}#DADarcv2c span{position:fixed;bottom:0px;left:10%;right:10%;cursor:pointer;font-size:20px;}</style><div id="DADarcv2c" class="DADpointer" onclick="DADarcvwi2();" title=""/><center><span><a href="#" target="_blank"/></a></span></center></div>');
 
     document.getElementsByTagName('body')[0].appendChild(DADrcdiv);
-    </script>
+ 
